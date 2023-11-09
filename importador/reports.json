@@ -1,0 +1,156 @@
+{
+    "neotel":{
+        "neotel":[
+            {
+                "campaign": "skberge",
+                "reports":[
+                    {
+                        "code": "141",
+                        "report_name": "141_skberge_csm_peugeot",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str",
+                                "DOCUMENTO": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    },
+                    {
+                        "code": "176",
+                        "report_name": "176_skberge_encuestas_kacs",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    },
+                    {
+                        "code": "177",
+                        "report_name": "177_skberge_encuestas_kscs",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    },
+                    {
+                        "code": "181",
+                        "report_name": "181_skberge_ssi_peugeot",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    },
+                    {
+                        "code": "190",
+                        "report_name": "190_skberge_csm_mitsubishi",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    },
+                    {
+                        "code": "191",
+                        "report_name": "191_skberge_csm_fuso",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    },
+                    {
+                        "code": "192",
+                        "report_name": "192_skberge_csm_chery",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    },
+                    {
+                        "code": "193",
+                        "report_name": "193_skberge_csm_mg",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    },
+                    {
+                        "code": "194",
+                        "report_name": "194_skberge_ssi_mitsubishi",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    },
+                    {
+                        "code": "195",
+                        "report_name": "195_skberge_ssi_fuso",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    },
+                    {
+                        "code": "196",
+                        "report_name": "196_skberge_ssi_chery",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    },
+                    {
+                        "code": "197",
+                        "report_name": "197_skberge_ssi_mg",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    }
+                ]
+            }
+        ]
+    }
+}

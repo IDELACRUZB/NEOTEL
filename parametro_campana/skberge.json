@@ -1,0 +1,63 @@
+{
+    "reporte_141":{
+        "code_campa": 141,
+        "nombre_asignado": "141_skberge_csm_peugeot_",
+        "destino": "\\carga\\neotel\\skberge\\141"
+    },
+    "reporte_176":{
+        "code_campa": 176,
+        "nombre_asignado": "176_skberge_encuestas_kacs_",
+        "destino": "\\carga\\neotel\\skberge\\176"
+    },
+    "reporte_177":{
+        "code_campa": 177,
+        "nombre_asignado": "177_skberge_encuestas_kscs_",
+        "destino": "\\carga\\neotel\\skberge\\177"
+    },
+    "reporte_181":{
+        "code_campa": 181,
+        "nombre_asignado": "181_skberge_ssi_peugeot_",
+        "destino": "\\carga\\neotel\\skberge\\181"
+    },
+    "reporte_190":{
+        "code_campa": 190,
+        "nombre_asignado": "190_skberge_csm_mitsubishi_",
+        "destino": "\\carga\\neotel\\skberge\\190"
+    },
+    "reporte_191":{
+        "code_campa": 191,
+        "nombre_asignado": "191_skberge_csm_fuso_",
+        "destino": "\\carga\\neotel\\skberge\\191"
+    },
+    "reporte_192":{
+        "code_campa": 192,
+        "nombre_asignado": "192_skberge_csm_chery_",
+        "destino": "\\carga\\neotel\\skberge\\192"
+    },
+    "reporte_193":{
+        "code_campa": 193,
+        "nombre_asignado": "193_skberge_csm_mg_",
+        "destino": "\\carga\\neotel\\skberge\\193"
+    },
+    "reporte_194":{
+        "code_campa": 194,
+        "nombre_asignado": "194_skberge_ssi_mitsubishi_",
+        "destino": "\\carga\\neotel\\skberge\\194"
+    },
+    "reporte_195":{
+        "code_campa": 195,
+        "nombre_asignado": "195_skberge_ssi_fuso_",
+        "destino": "\\carga\\neotel\\skberge\\195"
+    },
+    "reporte_196":{
+        "code_campa": 196,
+        "nombre_asignado": "196_skberge_ssi_chery_",
+        "destino": "\\carga\\neotel\\skberge\\196"
+    },
+    "reporte_197":{
+        "code_campa": 197,
+        "nombre_asignado": "197_skberge_ssi_mg_",
+        "destino": "\\carga\\neotel\\skberge\\197"
+    }
+
+}

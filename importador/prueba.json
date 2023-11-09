@@ -1,0 +1,23 @@
+{
+    "neotel":{
+        "neotel":[
+            {
+                "campaign": "skberge",
+                "reports":[
+                    {
+                        "code": "197",
+                        "report_name": "197_skberge_ssi_mg",
+                        "properties": {
+                            "dbType": {
+                                "idcarga": "str"
+                            },
+                            "renameColumns": {},
+                            "converters": {}
+                        },
+                        "primary_key": "idcarga"
+                    }
+                ]
+            }
+        ]
+    }
+}
